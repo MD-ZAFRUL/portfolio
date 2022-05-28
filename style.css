@@ -1,0 +1,273 @@
+ .qq
+{
+    color:greenyellow;
+} 
+.b
+{
+     text-align: center;
+    color: greenyellow;
+    font-size: 30px;
+    position:relative; top: -150px;
+    text-indent: -800px;
+}
+   
+
+.w{
+    color: yellowgreen;
+    }
+.i
+{
+    /* float:right;
+    width: 200px;
+    height: 200px; */
+    display: block;
+    margin-left: 1200px;
+    /* margin-right: 1600px; */
+    width: 15%;
+    margin-top: -120px;
+    width: 250px;
+   height: 250px;
+  }
+
+.h{
+    text-align: center;
+    word-spacing: 100px;
+    
+} 
+.c
+{
+    color:black;
+    font-size: medium;
+    margin-left: 250px;
+    margin-top: -10px;
+    text-align: left;
+}
+        .d{
+            color:black;
+    font-size: medium;
+    margin-left: 250px;
+    margin-top: -10px;
+    text-align: left;
+
+        }
+    
+    
+       
+    
+      .square1{
+        height: 500px;
+        width: 250px; 
+        background-color: yellowgreen;
+        margin-left: 1150px;
+        position:absolute;
+        margin-top: -250px;
+        z-index: -1;
+        }
+        .j{
+            text-align: center;
+            text-emphasis-color: black;
+            font-size: large;
+            margin-left: -300px;
+            /* text-indent:-800px; */
+        }
+        .p{
+            /* text-indent: -200; */
+            margin-left: 400px;
+            margin-bottom: 10px;
+        }
+      
+        .rr{
+            /* text-indent: -200; */
+            margin-left: 550px;
+        }
+        .o{
+            margin-left: 900px;
+            margin-bottom: 800px;
+         }
+         .n
+         {
+             position: absolute;
+             top: 400px;
+             left: 0px;
+             margin-bottom: 120px;
+             margin-right: 50px;
+             z-index: -1;
+            }
+
+         .a{
+            display: inline-block;
+            margin-left: 200px;
+            margin-bottom: 200px;
+            width: 100px;
+            height: 100px; }
+
+         .aa{ display: inline-block;
+            margin-left: 250px;
+            margin-bottom: 200px;
+            width: 100px;
+            height: 100px;}
+        .aaa{ display: inline-block;
+            margin-left: 300px;
+            margin-bottom: 200px;
+            width: 100px;
+            height: 100px;}
+            .u{
+                display: inline-block;
+                margin-left: 200px;
+                margin-bottom: 200px;
+                width: 100px;
+                height: 100px;}
+                .uu{
+                    display: inline-block;
+                    margin-left: 250px;
+                    margin-bottom: 190px; 
+                    width: 100px;
+                    height: 100px;}
+                    .uuu{
+                        display: inline-block;
+                        margin-left: 250px;
+                        margin-bottom: 190px; 
+                        width: 100px;
+                        height: 100px;
+                    }
+    .circle{
+        width: 250px;
+        height: 200px;
+        background-color: yellowgreen;
+        position: absolute;
+        right:10px;
+        top: 1380px;
+        
+    }    
+    .text{
+        color: white;
+        text-align: center;
+    }           
+   .yes
+   {
+       border-spacing: 100px;
+       border: 100;
+       padding: 100px;
+   }
+   .top{
+       margin-top: -1000px;
+       margin-bottom: 500px;
+   }
+   .mg{
+    margin-left: 250px;
+    margin-top: -210px;
+    text-align: left;
+   }
+   .gm{
+    margin-left: 300px;
+    margin-top: -210px;
+    text-align: left;
+   }
+   h4{
+       color: yellowgreen;
+   }
+   .number{
+    margin-left: 310px;
+    margin-top: -210px;
+    text-align: left;
+   }
+   .scis{
+    margin-left: 230px;
+    margin-top: -230px;
+    text-align: left;
+   }
+   .poke{
+    margin-left: 290px;
+    margin-top: -210px;
+    text-align: left;
+   }
+   .birth{
+    margin-left: 310px;
+    margin-top: -210px;
+    text-align: left;
+   }
+   .yes{
+       margin-top: -180px;
+   }
+   .bye{
+       color: yellowgreen;
+       margin-left: 50px;
+       font-size: 70px;
+   }
+   .guitar{
+       margin-left: 800px;
+       width: 210px;
+       height: 250px;
+   }
+   .friends{
+    width: 200px;
+    height: 150px;
+    margin-left:5px;
+    margin-top: -300px;
+   }
+   .bad{
+       margin-left: 1200px;
+       position:absolute;
+       right:40px;
+       top:2170px;
+       height:120px;
+       width:200px
+   }
+   .paint{
+       width: 210px;
+       height:150px;
+       margin-left: 710px;
+       position: absolute;
+       top:2290px;
+       
+   }
+   .read{
+    height:190px;
+    width:200px;
+    margin-left: 930px;
+    position: absolute;
+    top:2290px;
+   }
+   .rectangle{
+       width: 400px;
+       height: 200px;
+       background-color: yellowgreen;
+       position: absolute;
+       margin-bottom: -90px;
+       z-index: -1;
+   }
+   .para{
+       margin-top: -50px;
+   }
+.last{
+ color:white;
+ margin-bottom: 10px;
+ font-size: 50px;
+margin-top: 30px;
+margin-left: 60px;}
+       
+.mail{
+ color: white;
+margin-top: -50px;
+margin-left: 80px;}
+.insta{
+    width: 20px;
+    height: 20px;
+    margin-left: 80px;
+    margin-bottom: -2px;
+   
+}
+.youtube{
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    margin-bottom: -5px;
+   
+}
+.facebook{
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    margin-bottom: -3px;
+   
+}
